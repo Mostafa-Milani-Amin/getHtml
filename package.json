@@ -1,0 +1,50 @@
+{
+  "name": "htmlgetty",
+  "version": "1.0.0",
+  "description": "This is a function that accepts 3 arguments, \"url\", \"tag\" and \"output\", and writes to a file, in the \"output\" path, the content of an html \"tag\", relative to a specific \"url\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mostafa-Milani-Amin/getHtml.git"
+  },
+  "keywords": [
+    "get",
+    "html",
+    "axios",
+    "cheerio",
+    "tag",
+    "find",
+    "extract",
+    "href",
+    "div",
+    "p",
+    "title",
+    "body",
+    "head",
+    "footer",
+    "dom",
+    "url",
+    "scraping",
+    "scrape",
+    "web",
+    "javascript",
+    "js",
+    "webscraping",
+    "crawler",
+    "crawl",
+    "webcrawler",
+    "link",
+    "links",
+    "search",
+    "code"
+  ],
+  "author": "Mostafa Milani Amin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mostafa-Milani-Amin/getHtml/issues"
+  },
+  "homepage": "https://github.com/Mostafa-Milani-Amin/getHtml#readme"
+}
