@@ -1,6 +1,6 @@
 {
   "name": "htmlgetty",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a function that accepts 3 arguments, \"url\", \"tag\" and \"output\", and writes to a file, in the \"output\" path, the content of an html \"tag\", relative to a specific \"url\".",
   "main": "index.js",
   "scripts": {
